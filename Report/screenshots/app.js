@@ -285,6 +285,54 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "screenShotFile": "003a0087-00f0-00d8-0062-002e0007007e.png",
         "timestamp": 1573239096635,
         "duration": 4188
+    },
+    {
+        "description": "Writing sample test|Writing sample scenario",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 15288,
+        "browser": {
+            "name": "chrome",
+            "version": "78.0.3904.97"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "00f70031-00de-003c-0025-00a100ce003f.png",
+        "timestamp": 1573240085018,
+        "duration": 4181
+    },
+    {
+        "description": "Writing sample test|Writing sample scenario",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 10432,
+        "browser": {
+            "name": "chrome",
+            "version": "78.0.3904.97"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "0007007e-00aa-007b-002c-002d008b00de.png",
+        "timestamp": 1573662758487,
+        "duration": 4160
+    },
+    {
+        "description": "Writing sample test|Writing sample scenario",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 1132,
+        "browser": {
+            "name": "chrome",
+            "version": "78.0.3904.97"
+        },
+        "message": "Passed",
+        "browserLogs": [],
+        "screenShotFile": "007f0038-00f2-0074-00e8-00a80002001a.png",
+        "timestamp": 1573662801744,
+        "duration": 4161
     }
 ];
 
